@@ -1,0 +1,12 @@
+{
+    "createdAt": "2026-01-11 18:07:45.196928 +0300 +0300",
+    "id": "56d62b5c-3686-46f1-972c-bfa874f82f6e",
+    "name": "Неправда число",
+    "price": 49066,
+    "sellerId": 928420,
+    "statistics": {
+        "contacts": 1,
+        "likes": 1,
+        "viewCount": 1
+    }
+}

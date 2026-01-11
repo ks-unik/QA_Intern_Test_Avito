@@ -1,0 +1,7 @@
+pytest
+httpx
+requests
+pydantic
+faker
+allure-pytest
+pytest-xdist
